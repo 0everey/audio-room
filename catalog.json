@@ -1,0 +1,14 @@
+{
+  "schema": "resource-room.catalog.v1",
+  "repository": "0everey/audio-room",
+  "category": {
+    "id": "audio",
+    "name": "音效"
+  },
+  "futureTarget": {
+    "comparison": ">",
+    "threshold": 30,
+    "minimumCount": 31
+  },
+  "items": []
+}
